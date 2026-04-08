@@ -32,7 +32,7 @@ Analyze how match outcomes are influenced by:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](IPL_Analytics_Dashboard.pbix.png)
 
 ---
 
