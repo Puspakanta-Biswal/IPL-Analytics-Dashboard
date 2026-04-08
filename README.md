@@ -14,7 +14,7 @@ Analyze how match outcomes are influenced by:
 ---
 
 ## 🔑 Key Features
-- 📌 KPI Cards: Matches, Teams, Toss Impact %, Venues
+- 📌 KPI Cards: Matches, Teams, Toss Impact %
 - 📊 Interactive Dashboard with slicers (Season, Team, Venue)
 - 🔄 Data Cleaning & Transformation using Power Query
 - 🧠 Data Modeling & DAX Calculations
